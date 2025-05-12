@@ -1,4 +1,4 @@
-# Simple_SHA256
+# `Simple_SHA256`
  This is a simple C++ program that takes an input string from the user and computes its SHA256 hash using OpenSSL.
 ---
 
