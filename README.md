@@ -2,18 +2,18 @@
  This is a simple C++ program that takes an input string from the user and computes its SHA256 hash using OpenSSL.
 ---
 
-# Features
+# `Features`
  - Accepts user input from the console.
  - Computes SHA256 hash using OpenSSL.
  - Displays the hash in hexadecimal format.
 ---
 
-# Requirements
+# `Requirements`
  - C++ compiler (e.g., g++)
  - OpenSSL development libraries installed
 ---
 
-# Example Output
+# `Example Output`
 ```bash
 Enter a string to hash using SHA256: Hello123
 SHA256 hash of "Hello123":
@@ -21,6 +21,6 @@ SHA256 hash of "Hello123":
 ```
 ---
 
-# Note
+# `Note`
 This program uses SHA256 from OpenSSL. The same input will always generate the same hash (i.e., it's deterministic).
 ---
